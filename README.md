@@ -190,10 +190,11 @@ then `python3 prompt_model.py "<prompt>"` gives the same numbers every time. Kno
 
 ## How this was built (in the open)
 
-I didn't type this code. I built the whole thing by directing an AI (Claude), which felt
-right for a repo about tracing where things came from: a provenance tool ought to be honest
-about its own provenance. So here are the actual prompts I used, in order, followed by a
-plain account of how it went, including the parts that broke.
+I didn't type this code, and I didn't write this README either. I built the whole thing by
+directing an AI (Claude), the words you're reading included. That felt right for a repo about
+tracing where things came from: a provenance tool ought to be honest about its own provenance.
+So here are the actual prompts I used to build it, in order, followed by a plain account of
+how it went, including the parts that broke.
 
 ### The prompts, verbatim
 
