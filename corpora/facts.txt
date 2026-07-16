@@ -1,0 +1,29 @@
+Ada Lovelace wrote notes about the Analytical Engine.
+The Analytical Engine was designed by Charles Babbage.
+Ada Lovelace is often called the first computer programmer.
+Charles Babbage designed the Analytical Engine in the nineteenth century.
+The Analytical Engine was a mechanical general purpose computer.
+Charles Babbage also designed the Difference Engine.
+Grace Hopper created the first compiler.
+Grace Hopper worked on the UNIVAC computer.
+Grace Hopper helped develop the COBOL programming language.
+Alan Turing studied computation and decidability.
+Alan Turing designed the Turing machine as a model of computation.
+Alan Turing worked at Bletchley Park during the Second World War.
+
+Q: Who wrote notes about the Analytical Engine?
+A: Ada Lovelace wrote notes about the Analytical Engine.
+Q: Who designed the Analytical Engine?
+A: Charles Babbage designed the Analytical Engine.
+Q: Who created the first compiler?
+A: Grace Hopper created the first compiler.
+Q: Who designed the Turing machine?
+A: Alan Turing designed the Turing machine.
+Q: Who helped develop COBOL?
+A: Grace Hopper helped develop COBOL.
+Q: Where did Alan Turing work during the war?
+A: Alan Turing worked at Bletchley Park during the Second World War.
+Q: Who designed the Difference Engine?
+A: Charles Babbage designed the Difference Engine.
+Q: Who worked on the UNIVAC computer?
+A: Grace Hopper worked on the UNIVAC computer.

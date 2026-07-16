@@ -1,0 +1,17 @@
+DETECTIVE: I told you this case would not go away.
+SUSPECT: You say that about every case.
+DETECTIVE: Yes, because they never do.
+SUSPECT: Then why are you here, detective?
+DETECTIVE: Because you still have not told me where you were on Tuesday.
+SUSPECT: I told you, I was at the library.
+DETECTIVE: The library was closed on Tuesday.
+SUSPECT: Then I was at the cafe.
+DETECTIVE: Which cafe?
+SUSPECT: The one across from the library.
+DETECTIVE: That cafe was also closed.
+SUSPECT: Detective, you are very difficult.
+DETECTIVE: And you, my friend, are very forgetful.
+SUSPECT: Perhaps I was at home.
+DETECTIVE: Perhaps you were.
+SUSPECT: Then we are done.
+DETECTIVE: We are not done. I told you this case would not go away.

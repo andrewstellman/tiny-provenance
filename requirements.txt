@@ -1,0 +1,8 @@
+# Install into a virtualenv:
+#   python3 -m venv .venv && source .venv/bin/activate && pip3 install -r requirements.txt
+torch>=2.2
+numpy>=1.24
+prov>=2.0
+lxml>=4.9         # required by prov's serializers (PROV-JSON / RDF)
+rdflib>=6.0
+pydot>=1.4        # optional: SVG rendering only; also needs the Graphviz "dot" binary on your PATH
